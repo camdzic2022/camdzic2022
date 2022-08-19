@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sentinel13337" alt="sentinel13337" /></a> </p>
 
-- 🔭 I’m currently working on [Pink Panther](https://github.com/sentinel13337/pink-panther)
+- 🔭 I’m currently working on [Pink Panther](https://github.com/sentinel539/pink-panther)
 
 - 🌱 I’m currently learning **frameworks**
 
