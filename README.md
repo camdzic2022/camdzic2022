@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 📫 How to reach me **sentinel.ofisl@gmail.com**
+- 📫 How to reach me **https://camdzic.me/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
